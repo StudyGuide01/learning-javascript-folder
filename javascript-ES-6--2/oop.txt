@@ -1,0 +1,47 @@
+cunstructur function
+what is incapsulation
+what is setters function in oop
+what is prototype in js // is used to decrease of memory execution and bind same method with same work 
+what is prototype chain // prototype === like a inharitance
+Array is built in cunstructur in js // Array.prototype
+what is class in js
+what is inheritance
+WHAT IS use of super in class  
+[
+In short: super() in the child class constructor is used to invoke the parent class constructor so that the child class can inherit and initialize the parent’s properties correctly.
+]
+
+
+
+
+
+
+
+[  https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML   = learn javascript from mdn each every thing]
+
+1. contructure 
+[
+function BankAccount(holderName, balance=0){
+this.holderName = holderName;
+this.balance = balance;
+this.accountNumber =   Date.now();
+
+//deposit method
+this.deposit = function(amount){
+this.balance += amount;
+}
+}
+
+const javedAccount = new BankAccount('javed',1000);
+const samirAccount = new BankAccount('samir');
+javedAccount.deposit(2000);
+console.log(javedAccount);
+console.log(samirAccount);
+
+]
+
+2. constructure
+[
+
+
+] 
