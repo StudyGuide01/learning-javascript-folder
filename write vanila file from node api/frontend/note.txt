@@ -1,0 +1,17 @@
+========================== Chapter 1 =======================================================
+ The difference way to use object in javascript
+these are the foundation for understanding oops in javascript
+
+1. object litral 
+2. Factory Function
+3. Construture Function
+4. Class syntax(es6)
+
+
+============
+programming paradigm = way of programming
+1. imperative way
+2. Declarative way (Function way)
+3. Array and Date is a Construtore function 
+
+ 

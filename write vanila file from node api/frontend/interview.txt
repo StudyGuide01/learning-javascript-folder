@@ -1,0 +1,5 @@
+what is method and property
+what is singltan object 
+what is Factory function 
+consturcture function  is used to get parameter in class 
+what is this keyword
