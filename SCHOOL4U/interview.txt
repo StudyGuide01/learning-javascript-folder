@@ -1,0 +1,12 @@
+what is method and property
+what is singltan object 
+what is Factory function 
+consturcture function  is used to get parameter in class 
+what is this keyword
+what is prototype in js
+what is class
+what is instance
+what is getter and setter in encapsulation or abstraction
+what is polymorphism ( compile time and run time polymorphism);
+
+
